@@ -53,7 +53,7 @@
 停止
 # systemctl stop nginx
 启动
-# systemctl start nginxnginx
+# systemctl start nginx
 ```
 > 熟知以上说明之后，开始操作安装部署
 
