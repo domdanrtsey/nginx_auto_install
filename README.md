@@ -3,7 +3,7 @@
 #### 脚本使用安装前配置
 
 > 需要使用root用户执行
-> 下载脚本：
+> 下载脚本：https://github.com/domdanrtsey/nginx_auto_install/tree/master
 
 1. **请注意：**本脚是在Centos7.X上做测试，其他版本的操作系统可能不适合
 
